@@ -5,7 +5,7 @@ import ErrorBoundary from './components/common/ErrorBoundary';
 import ProtectedRoute from './components/common/ProtectedRoute';
 
 // Auth Pages
-import Login from './pages/login/Login';
+import Login from './pages/Login/Login';
 import Register from './pages/Register/Register';
 import CheckEmail from './pages/CheckEmail/CheckEmail';
 import VerifyEmail from './pages/VerifyEmail/VerifyEmail';
